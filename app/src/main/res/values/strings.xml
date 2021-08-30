@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fish Feeder</string>
+    <string name="hours"> hours and</string>
+    <string name="minutes"> minutes</string>
+    <string name="_hours">0 hours and</string>
+    <string name="_minutes">0 minutes</string>
+    <string name="change_feed_time">Change feed time</string>
+    <string name="feed_fish">Feed fish</string>
+</resources>

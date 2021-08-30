@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180632271665",
+    "firebase_url": "https://fish-feeder-a0d9e-default-rtdb.firebaseio.com",
+    "project_id": "fish-feeder-a0d9e",
+    "storage_bucket": "fish-feeder-a0d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180632271665:android:a19b3efae7b6fb90f70e10",
+        "android_client_info": {
+          "package_name": "com.example.fishfeeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180632271665-bgm59js1ub5f9ridb7v5hlq0huvlo39t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbepuD4HnQFMobHCfapr9RTskcHmeRD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180632271665-bgm59js1ub5f9ridb7v5hlq0huvlo39t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
